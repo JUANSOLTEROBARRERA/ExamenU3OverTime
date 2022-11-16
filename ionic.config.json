@@ -1,0 +1,7 @@
+{
+  "name": "ExamenU3EquipoOverTime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
